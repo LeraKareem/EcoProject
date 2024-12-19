@@ -17,8 +17,3 @@
 1. Перейдите по ссылке в Google Colab.
 2. Нажмите "Файл → Создать копию на Google Диск".
 3. Запустите код в ячейках.
-
-### Примеры кода
-```python
-def calculate_emissions(activity_level):
-    return activity_level * 0.5  # Пример расчета
